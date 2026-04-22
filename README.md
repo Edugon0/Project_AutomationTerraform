@@ -16,7 +16,7 @@ O projeto é dividido em **dois repositórios** com pipelines CI/CD independente
 | [Full-automation-with-CI-CD-](https://github.com/Edugon0/Project-automation-Terraform) | Provisionamento de infraestrutura AWS com Terraform |
 | [Automation-DeploySite-instance-ec2](https://github.com/Edugon0/Automation-DeploySite-instance-ec2) | Deploy automático da aplicação na EC2 |
 
-Obs.: Esses dois repositórios estão por enquanto privado por questão de segurança, pois ainda tem alguns dados sensivel dentro dos repositorios, assim que possivel firá disponivel
+Obs.: Esses dois repositórios estão por enquanto privado por questão de segurança, pois ainda tem alguns dados sensivel dentro dos repositorios, assim que possivel ficará disponivel
  
 ---
  
